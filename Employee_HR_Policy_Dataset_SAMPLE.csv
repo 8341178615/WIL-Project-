@@ -1,0 +1,175 @@
+﻿document_id,policy_title,policy_text,source_file,data_type
+01_employee_onboarding,Employee Onboarding and Induction,"EXAMPLECO | SYNTHETIC DEMONSTRATION DOCUMENT
+
+Employee Onboarding and Induction
+
+Purpose
+This policy describes the onboarding process for new employees of ExampleCo, a fictional organisation used only for RAG prototype testing. The organisation does not exist. The policy is illustrative and does not establish real employment rights.
+
+Before the start date
+The hiring manager sends a welcome message and provides a start date, reporting location, employment contact, and first-week timetable. New employees are given a checklist covering identity verification, payroll setup, emergency contact information, and IT equipment requests. Sensitive personal documents must be transferred only through approved secure channels.
+
+First week
+New employees meet their manager, review job expectations, receive a security orientation, and learn where to find internal policies. The manager confirms access to email, the employee portal, and the required applications. Completion of the induction checklist is recorded by the HR team.
+
+Support and escalation
+Employees who do not receive access within two working days should notify their manager and the IT service desk. Questions about employment documents go to HR. Managers should not ask employees to share passwords or send identity documents through public chat channels.
+
+FICTIONAL SAMPLE - NOT REAL HR OR LEGAL ADVICE
+",demo_policy_text/01_employee_onboarding.txt,synthetic fictional policy (demo only)
+02_annual_leave,Annual Leave and Holiday Requests,"EXAMPLECO | SYNTHETIC DEMONSTRATION DOCUMENT
+
+Annual Leave and Holiday Requests
+
+Purpose
+This fictional ExampleCo policy explains how paid time off requests are processed in the demonstration HR assistant. It must not be used as a statement of Australian employment law or a real employer entitlement.
+
+Illustrative allocation
+For the demonstration, an eligible full-time ExampleCo employee has an annual leave allowance of 20 working days for each completed year of service. Part-time leave is proportionate to ordinary working hours. The sample HR portal shows an individual balance that must be checked before approval.
+
+Request procedure
+Employees submit planned leave in the HR portal at least 10 working days before the proposed start, where reasonably practicable. The request should include the dates, contact arrangements for outstanding work, and any handover needs. A manager considers project coverage and responds in the portal. An unapproved request must not be treated as authorised leave.
+
+Conflicts and changes
+Where multiple employees request the same dates, the manager should apply a fair and documented decision process. An employee who wants to cancel or change approved leave should update the portal and inform the manager. Payroll and leave balances are updated after the request is processed.
+
+Questions
+Employees should refer disputed balances to HR rather than relying on a chatbot-generated calculation.
+
+FICTIONAL SAMPLE - NOT REAL HR OR LEGAL ADVICE
+",demo_policy_text/02_annual_leave.txt,synthetic fictional policy (demo only)
+03_sick_and_carers_leave,"Sick Leave, Carers Leave and Absence Notification","EXAMPLECO | SYNTHETIC DEMONSTRATION DOCUMENT
+
+Sick Leave, Carers Leave and Absence Notification
+
+Purpose
+This is a fictional internal absence-notification procedure for ExampleCo. The demonstration dataset uses it to test employee questions about sickness and caring responsibilities.
+
+Reporting an absence
+When an employee is unable to work due to illness, injury, or an urgent caring responsibility, they should notify their manager as soon as reasonably possible before the scheduled shift. If the manager cannot be contacted, the employee should notify HR through the nominated absence channel.
+
+Information to provide
+The notification should state that the employee is unavailable, the anticipated period of absence if known, and a safe contact method. Detailed diagnoses, medical histories, and other sensitive information should not be posted in group chats or shared with colleagues who have no legitimate need to know.
+
+Evidence and return to work
+HR may request reasonable supporting evidence where permitted by applicable rules. Medical evidence is held in restricted records. Where an employee needs workplace adjustments on return, HR and the manager should discuss the arrangements confidentially.
+
+Limits
+This demonstration policy does not specify statutory leave balances. For actual entitlements, consult the applicable current workplace legislation and employment agreement.
+
+FICTIONAL SAMPLE - NOT REAL HR OR LEGAL ADVICE
+",demo_policy_text/03_sick_and_carers_leave.txt,synthetic fictional policy (demo only)
+04_flexible_and_remote_work,Flexible and Remote Working Arrangements,"EXAMPLECO | SYNTHETIC DEMONSTRATION DOCUMENT
+
+Flexible and Remote Working Arrangements
+
+Purpose
+This fictional ExampleCo procedure supports questions about asking for altered hours, hybrid arrangements, and remote working.
+
+Submitting a request
+An employee sends a written request through the HR portal identifying the proposed work pattern, preferred start date, length of the arrangement, and any equipment or accessibility needs. Requests should be discussed with the manager rather than assumed to be approved.
+
+Manager review
+The manager reviews required team coverage, information security, customer service, workplace health and safety, and the ability to measure outcomes. ExampleCo aims to provide an initial written response within 15 working days. This is an internal illustrative target, not a legal deadline.
+
+Remote work practices
+When working remotely, employees must use approved devices, enable multi-factor authentication, protect confidential records, and report lost devices promptly. Work conversations and files should remain on approved corporate platforms. Working hours and availability expectations are documented in the agreed arrangement.
+
+Review and appeal
+Flexible arrangements may be reviewed where job duties or business requirements change. A staff member who disagrees with a decision can request clarification from HR. Formal rights depend on the applicable jurisdiction and employment conditions.
+
+FICTIONAL SAMPLE - NOT REAL HR OR LEGAL ADVICE
+",demo_policy_text/04_flexible_and_remote_work.txt,synthetic fictional policy (demo only)
+05_code_of_conduct,Code of Conduct and Confidentiality,"EXAMPLECO | SYNTHETIC DEMONSTRATION DOCUMENT
+
+Code of Conduct and Confidentiality
+
+Purpose
+ExampleCo expects a respectful, inclusive, safe, and professional workplace. This fictional policy is a demonstration source for questions about conduct and confidentiality.
+
+Respectful behaviour
+Bullying, harassment, discriminatory conduct, intimidation, and retaliation are not tolerated in the fictional company. Employees should raise concerns promptly with a manager or HR, particularly when behaviour affects safety or dignity at work.
+
+Conflicts of interest
+Employees disclose outside interests, gifts, or relationships that may affect impartial decisions. A manager or HR decides what safeguards are appropriate and records the outcome.
+
+Handling company information
+Employee records, customer data, business documents, passwords, and private meeting notes must be handled according to access rules. Personal information should not be uploaded into public AI tools, personal drives, or unapproved messaging services. Access must be limited to authorised work needs.
+
+Incident reporting
+Lost devices, accidental disclosures, suspicious messages, and other security incidents should be reported immediately to the IT security channel. Employees should not independently investigate suspected misconduct by accessing someone else's information.
+
+Seeking advice
+Where a policy seems unclear, employees should ask HR before acting. This demonstration document cannot replace the real organisation's conduct rules.
+
+FICTIONAL SAMPLE - NOT REAL HR OR LEGAL ADVICE
+",demo_policy_text/05_code_of_conduct.txt,synthetic fictional policy (demo only)
+06_grievance_and_complaints,Workplace Concerns and Grievance Handling,"EXAMPLECO | SYNTHETIC DEMONSTRATION DOCUMENT
+
+Workplace Concerns and Grievance Handling
+
+Purpose
+This fictional ExampleCo policy describes an internal route for raising workplace concerns, including unresolved team conflicts, inappropriate behaviour, and perceived unfair treatment.
+
+Informal resolution
+Where safe and appropriate, employees may first discuss the issue with their manager or the people involved. Informal resolution is voluntary and should not be required where serious misconduct, harassment, or safety risks are alleged.
+
+Formal complaint
+An employee may submit a complaint to HR using the confidential reporting address or portal. The complaint should identify the concern, approximate dates, relevant witnesses or records, and the resolution sought. Employees should not circulate allegations to unrelated teams.
+
+Review process
+HR acknowledges a complaint, assesses immediate safety and confidentiality needs, and arranges an impartial review. People involved have an opportunity to provide relevant information. The company seeks to communicate process updates while protecting privacy.
+
+No retaliation
+Punishing someone for raising a good-faith concern or participating in an investigation is prohibited in this illustrative policy. Where the issue involves HR or the manager, employees may use the designated independent escalation contact.
+
+Outcome
+HR provides appropriate outcome information to the complainant. Some details may remain confidential. Relevant statutory reporting channels remain available where applicable.
+
+FICTIONAL SAMPLE - NOT REAL HR OR LEGAL ADVICE
+",demo_policy_text/06_grievance_and_complaints.txt,synthetic fictional policy (demo only)
+07_learning_and_performance,"Learning, Performance Reviews and Development","EXAMPLECO | SYNTHETIC DEMONSTRATION DOCUMENT
+
+Learning, Performance Reviews and Development
+
+Purpose
+This fictional ExampleCo policy explains how goals, feedback, and development activities are handled for the prototype assistant.
+
+Setting goals
+At the beginning of each review cycle, an employee and manager agree measurable objectives, delivery timelines, and expected work behaviours. Goals should align with the employee's role and should be documented in the performance system.
+
+Feedback and reviews
+The manager conducts a check-in during the cycle and a formal review at its end. Feedback should address specific evidence, completed work, obstacles, and improvement opportunities. Employees are encouraged to add their own comments to the review record.
+
+Development requests
+Employees can request a learning course, certification, mentoring session, or job-shadowing opportunity. Approval depends on role relevance, available budget, and team capacity. Training requests must be made before costs are incurred unless an exception is approved.
+
+Disagreement
+An employee who believes a review contains factual inaccuracies should first discuss them with the manager. If unresolved, HR can facilitate a documented review. The chatbot must not invent a performance rating or make an individual employment decision.
+
+FICTIONAL SAMPLE - NOT REAL HR OR LEGAL ADVICE
+",demo_policy_text/07_learning_and_performance.txt,synthetic fictional policy (demo only)
+08_resignation_and_offboarding,"Resignation, Handover and Offboarding","EXAMPLECO | SYNTHETIC DEMONSTRATION DOCUMENT
+
+Resignation, Handover and Offboarding
+
+Purpose
+This fictional ExampleCo policy describes the internal administrative steps when an employee resigns or an employment contract ends. Legal entitlements vary and are not determined by this sample document.
+
+Notice and communication
+An employee who plans to resign submits a written notice to their manager and HR, indicating a proposed last working day. HR checks the applicable contract and legal conditions before confirming the final date. Managers should not promise a specific notice period without reviewing the employment terms.
+
+Handover
+The employee prepares a list of open work, project contacts, shared files, scheduled deadlines, and decisions requiring follow-up. The manager arranges a handover meeting and confirms ownership of unfinished tasks.
+
+Accounts and equipment
+On the final working day, company devices, access cards, and other assets must be returned according to the offboarding checklist. IT revokes access at the authorised time, preserving records according to the retention policy.
+
+Final administration
+HR and payroll review any outstanding pay and eligible leave balances using current contractual and legal rules. Employees receive information about relevant employment records and contacts for post-employment queries.
+
+Confidentiality
+Employees remain responsible for protecting confidential information after departure and should not copy internal documents to personal accounts.
+
+FICTIONAL SAMPLE - NOT REAL HR OR LEGAL ADVICE
+",demo_policy_text/08_resignation_and_offboarding.txt,synthetic fictional policy (demo only)

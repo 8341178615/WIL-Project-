@@ -1,0 +1,26 @@
+question,expected_doc,expected_answer,answerable
+What should the welcome message include before I start?,01_employee_onboarding,"start date, reporting location, employment contact, and first-week timetable",True
+What should I do if I cannot access work applications after two working days?,01_employee_onboarding,notify their manager and the IT service desk,True
+Can my manager ask me to send passwords in a public chat?,01_employee_onboarding,Managers should not ask employees to share passwords or send identity documents through public chat channels,True
+How much annual leave is shown for a full-time employee?,02_annual_leave,20 working days for each completed year of service,True
+How many working days before a holiday should planned leave be requested?,02_annual_leave,at least 10 working days before the proposed start,True
+Who handles an annual leave balance dispute?,02_annual_leave,refer disputed balances to HR,True
+When should I notify my manager about being too sick to work?,03_sick_and_carers_leave,as soon as reasonably possible before the scheduled shift,True
+Should I share medical diagnoses in a team chat?,03_sick_and_carers_leave,"Detailed diagnoses, medical histories, and other sensitive information should not be posted in group chats",True
+What do I include in a flexible work request?,04_flexible_and_remote_work,"proposed work pattern, preferred start date, length of the arrangement, and any equipment or accessibility needs",True
+When does the company aim to send its first written response to flexible work requests?,04_flexible_and_remote_work,within 15 working days,True
+What security controls should remote workers use?,04_flexible_and_remote_work,"approved devices, enable multi-factor authentication, protect confidential records, and report lost devices promptly",True
+Can I put employee records into a public AI tool?,05_code_of_conduct,Personal information should not be uploaded into public AI tools,True
+How should lost devices and suspicious messages be reported?,05_code_of_conduct,reported immediately to the IT security channel,True
+What should I do if I have a conflict of interest?,05_code_of_conduct,"Employees disclose outside interests, gifts, or relationships that may affect impartial decisions",True
+How do I make a formal workplace complaint?,06_grievance_and_complaints,submit a complaint to HR using the confidential reporting address or portal,True
+Is retaliation for raising a good-faith workplace concern allowed?,06_grievance_and_complaints,Punishing someone for raising a good-faith concern or participating in an investigation is prohibited,True
+Can I pay for training before the company approves it?,07_learning_and_performance,Training requests must be made before costs are incurred unless an exception is approved,True
+What if my performance review has factual errors?,07_learning_and_performance,"discuss them with the manager; if unresolved, HR can facilitate a documented review",True
+How do I submit a resignation?,08_resignation_and_offboarding,"written notice to their manager and HR, indicating a proposed last working day",True
+What work information should I hand over when leaving?,08_resignation_and_offboarding,"open work, project contacts, shared files, scheduled deadlines, and decisions requiring follow-up",True
+What is the 2026 Australian national minimum wage?,,Not specified in dataset,False
+Who is ExampleCo's chief executive and what is their private mobile number?,,Not specified in dataset,False
+How much is ExampleCo's monthly gym membership reimbursement?,,Not specified in dataset,False
+What are the statutory long-service-leave rules in Western Australia for 2026?,,Not specified in dataset,False
+What exact fixed dollar amount is given for the annual staff bonus?,,Not specified in dataset,False

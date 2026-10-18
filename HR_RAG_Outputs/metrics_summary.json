@@ -1,0 +1,19 @@
+{
+  "dataset": "fictional ExampleCo HR-policy CSV",
+  "dataset_policies": 8,
+  "source_chunks": 28,
+  "test_count": 25,
+  "answerable_count": 20,
+  "out_of_scope_count": 5,
+  "retrieval_mode": "semantic_embeddings",
+  "llm_mode": "local_llm",
+  "retrieval_hit_at_1": 0.75,
+  "retrieval_hit_at_3": 0.95,
+  "mean_relevant_source_fraction_at_3": 0.7333000000000001,
+  "mean_latency_seconds": 1.32992,
+  "correct_refusal_rate": 0.8,
+  "lexical_answer_similarity_proxy": 0.3974615384615384,
+  "source_token_coverage_proxy_NOT_faithfulness": 0.8512857142857142,
+  "human_verified_accuracy": null,
+  "human_verified_faithfulness": null
+}
